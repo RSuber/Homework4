@@ -1,0 +1,61 @@
+.second-block {
+  display: inline-block;
+  height: 24em;
+  width: 48em;
+  background:rgba(255, 255, 255, 0);
+  margin-bottom:1em;
+}
+.second-block > div > p {
+  color: white;
+  position: absolute;
+  font-size: 232%;
+  font-weight: bolder;
+  margin-right: 28%;
+  padding-left: 32%;
+  margin-top: 18%;
+  width: 100%;
+}
+.skater1 {
+  display: inline-block;
+    width: 31%;
+    height: 50%;
+    background-image: url(assets/sk8er-4.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 123% 103%;
+    position: relative;
+    border: 3px solid white;
+}
+.skater4 {
+  width: 31%;
+      height: 50%;
+      display: inline-block;
+      position: relative;
+      background-image: url(assets/sk8er-3.png);
+      background-size: 136% 104%;
+      border: 3px solid white;
+}
+.skater2 {
+  width: 63.5%;
+height: 48%;
+display: inline-block;
+position: relative;
+background-image: url(assets/sk8er-1.png);
+background-repeat: no-repeat;
+background-size: 120% 111%;
+border: 3px solid white;
+}
+.skater3 {
+  display: inline-block;
+    width: 35%;
+    height: 100.5%;
+    float: right;
+    position: relative;
+    top: -103%;
+    right: -0.50%;
+    background-image: url(assets/sk8er-2.png);
+    background-repeat: no-repeat;
+    background-size: 227% 100%;
+    background-position: 86%;
+    border: 3px solid white;
+}

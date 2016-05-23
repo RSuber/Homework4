@@ -45,6 +45,7 @@ header {
     position: relative;
     right: -2%; }
 
+/*Nested 4 elements here but I felt it didn't look to messy in comparison to the rest of my script*/
 .Header-tabs {
   display: inline-block;
   width: 100%;
@@ -61,7 +62,6 @@ header {
       width: 25%;
       background: #b4292e;
       margin-right: 3px;
-      /* margin-left: 1em; */
       height: 2em;
       position: relative;
       bottom: -10px;

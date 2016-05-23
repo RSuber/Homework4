@@ -1,0 +1,71 @@
+.fourth-block {
+  display: inline-block;
+  width: 48em;
+  height: 19em;
+  margin-top:2em;
+  background:white;
+  border-bottom:gray 3px solid;
+}
+form {
+  display: inline-block;
+    width: 50%;
+    height: 100%;
+    float: right;
+    position: relative;
+    top: -20em;
+}
+.float-left{
+  float: left;
+}
+ .text-box{
+   width: 50%;
+    margin: 0;
+   padding: 0;
+   height: 100%;
+  position: relative;
+  top: -16px;
+h1 {
+  font-size: 148%;
+  padding-top: 1em;
+  padding-left:3%;
+}
+p {
+  padding-left: 6%;
+  padding-right: 11%;
+}
+}
+input[name="name"] {
+  width: 95%;
+  margin-top: 16px;
+  margin-bottom: 10px;
+}
+input[name="email"] {
+  width: 95%;
+  margin-bottom: 10px
+}
+textarea[name="message"] {
+  width: 95%;
+  height: 9em;
+}
+input#SUBMIT {
+  width: 50%;
+  position: relative;
+  right: -47%;
+  top: 5%;
+  color: white;
+  background-color: #B2382D;
+  border: #B2382D;
+  margin: auto;
+  padding: 9px;
+  font-family: lucida grande;
+  font-size: medium;
+}
+.bottomtags {
+  position: relative;
+  top: -19%;
+  right: -4%;
+img {
+width:4%;
+background-color:gray;
+}
+}
